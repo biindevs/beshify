@@ -25,6 +25,10 @@ a:hover {
 h1{
   color: black;
   font-size: large;
+  font-family: 'Arial', sans-serif;
+  font-style: italic;
+  font-weight: 800;
+  
 }
 body {
   margin: 0;
